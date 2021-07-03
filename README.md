@@ -9,7 +9,7 @@
   <p align="center">
     Suggestion Bot for Discord | Made by Solar Development
     <br />
-    <a href="https://github.com/Solar-Developemnt"><strong>Organization »</strong></a>
+    <a href="https://github.com/SolarDevelopmentTeam"><strong>Organization »</strong></a>
   </p>
 </p>
 
