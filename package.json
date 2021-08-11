@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.1",
-    "discord.js": "^13.0.0-dev.1816a93b1b1b2bae47e8651e76fa53699de8421d",
+    "discord.js": "^13.0.1",
     "fs": "^0.0.1-security",
     "quick.db": "^7.1.3",
     "util": "^0.12.4"
